@@ -11,6 +11,11 @@ Currently completing my M.S. in Data Science & AI at the University of London.
 
 - **[Ontario Educational Equity Analysis](https://github.com/msadlouni-lab/ontario-educational-equity-analysis)** — OLS regression study identifying socioeconomic predictors of student achievement across 321 municipalities. Combined EQAO data with 2021 Canada Census indicators.
 
+-  **[Equity Risk Classifier](https://github.com/msadlouni-lab/equity-rag-app)** — 
+  Random Forest model predicting school-level equity risk from socioeconomic 
+  indicators. ROC-AUC 0.959. Confirms OLS regression findings via feature 
+  importance rankings.
+
 ---
 
 ## 🛠️ Tech Stack
