@@ -7,8 +7,7 @@ Currently completing my M.S. in Data Science & AI at the University of London.
 
 ## 🔨 What I'm building
 
-- **[Ontario Equity Analyser](https://github.com/msadlouni-lab/equity-rag-app)** — Hybrid RAG + pandas AI app that lets policy makers query Grade 6 reading achievement data conversationally. Built on my own original research covering 6,513 Ontario schools.
-
+- **[Ontario Equity Analyser](https://github.com/msadlouni-lab/equity-rag-app)** — Hybrid RAG + pandas AI app that lets policy makers query Grade 6 reading achievement data conversationally. Built on my own original research covering 6,513 Ontario schools. 🔗 [Live app](https://ontario-equity-analyser.streamlit.app)
 - **[Ontario Educational Equity Analysis](https://github.com/msadlouni-lab/ontario-educational-equity-analysis)** — OLS regression study identifying socioeconomic predictors of student achievement across 321 municipalities. Combined EQAO data with 2021 Canada Census indicators.
 
 -  **[Equity Risk Classifier](https://github.com/msadlouni-lab/equity-rag-app)** — 
